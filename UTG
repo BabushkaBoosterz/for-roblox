@@ -1,0 +1,1 @@
+game:GetService("InsertService"):LoadAsset(71117963548322).Parent = game.StarterGui
